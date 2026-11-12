@@ -1,0 +1,201 @@
+[
+  {
+    "_id": "27f3f6e6-5824-4435-8eec-0ef718cc07ab",
+    "createdAt": "2026-11-11T09:32:21.190Z",
+    "updatedAt": "2026-11-11T09:32:21.191Z",
+    "userId": "demo-user-777",
+    "websiteUrl": "https://ecommerce-store-sample.com",
+    "pageTitle": "Modern Apparel Online Store – Shop Summer Collection",
+    "score": 62,
+    "status": "completed",
+    "totalIssues": 7,
+    "severityCounts": {
+      "critical": 2,
+      "serious": 3,
+      "moderate": 1,
+      "minor": 1
+    },
+    "pagesScanned": [
+      "https://ecommerce-store-sample.com"
+    ],
+    "scanDurationMs": 2450,
+    "scanDate": "2026-11-08T09:32:21.189Z"
+  },
+  {
+    "_id": "202a3b1b-a2ce-4185-9500-c680f97206d0",
+    "createdAt": "2026-11-11T09:32:21.200Z",
+    "updatedAt": "2026-11-11T09:32:21.200Z",
+    "userId": "demo-user-777",
+    "websiteUrl": "https://ecommerce-store-sample.com",
+    "pageTitle": "Modern Apparel Online Store – Shop Summer Collection (Remediated)",
+    "score": 93,
+    "status": "completed",
+    "totalIssues": 2,
+    "severityCounts": {
+      "critical": 0,
+      "serious": 1,
+      "moderate": 0,
+      "minor": 1
+    },
+    "pagesScanned": [
+      "https://ecommerce-store-sample.com"
+    ],
+    "scanDurationMs": 1980,
+    "scanDate": "2026-11-11T09:32:21.197Z"
+  },
+  {
+    "_id": "75e1dcaf-8a9f-4c82-b074-559e3a0469ed",
+    "createdAt": "2026-11-11T09:32:21.210Z",
+    "updatedAt": "2026-11-11T09:32:21.210Z",
+    "userId": "demo-user-777",
+    "websiteUrl": "https://cloudanalytics-platform.io",
+    "pageTitle": "CloudAnalytics – Realtime Telemetry Dashboard",
+    "score": 84,
+    "status": "completed",
+    "totalIssues": 4,
+    "severityCounts": {
+      "critical": 1,
+      "serious": 1,
+      "moderate": 1,
+      "minor": 1
+    },
+    "pagesScanned": [
+      "https://cloudanalytics-platform.io",
+      "https://cloudanalytics-platform.io/pricing"
+    ],
+    "scanDurationMs": 3820,
+    "scanDate": "2026-11-10T09:32:21.208Z"
+  },
+  {
+    "_id": "d566b331-6feb-4d97-ad3c-01094d5439d1",
+    "createdAt": "2026-11-11T09:42:33.195Z",
+    "updatedAt": "2026-11-11T09:42:33.195Z",
+    "userId": "demo-user-777",
+    "websiteUrl": "https://ecommerce-store-sample.com",
+    "pageTitle": "Sample Inaccessible Website – AccessAudit Demo",
+    "score": 29,
+    "status": "completed",
+    "totalIssues": 9,
+    "severityCounts": {
+      "critical": 4,
+      "serious": 4,
+      "moderate": 1,
+      "minor": 0
+    },
+    "pagesScanned": [
+      "https://ecommerce-store-sample.com"
+    ],
+    "scanDurationMs": 2310,
+    "scanDate": "2026-11-11T09:42:33.192Z"
+  },
+  {
+    "_id": "b7609478-b652-4c19-8c31-14ea801c5bf0",
+    "createdAt": "2026-11-11T09:45:52.308Z",
+    "updatedAt": "2026-11-11T09:45:52.308Z",
+    "userId": "4e0735b1-0285-410e-a1d0-6eb66629aaf4",
+    "websiteUrl": "https://chatgpt.com/c/6af43654-412c-83e8-804c-09d9f7a2a052?temporary-chat=true",
+    "pageTitle": "Sample Inaccessible Website – AccessAudit Demo",
+    "score": 29,
+    "status": "completed",
+    "totalIssues": 9,
+    "severityCounts": {
+      "critical": 4,
+      "serious": 4,
+      "moderate": 1,
+      "minor": 0
+    },
+    "pagesScanned": [
+      "https://chatgpt.com/c/6af43654-412c-83e8-804c-09d9f7a2a052?temporary-chat=true"
+    ],
+    "scanDurationMs": 2310,
+    "scanDate": "2026-11-11T09:45:52.304Z"
+  },
+  {
+    "_id": "6cd1e5b2-2b68-480d-8ced-66daf9a37608",
+    "createdAt": "2026-11-11T09:46:22.373Z",
+    "updatedAt": "2026-11-11T09:46:22.373Z",
+    "userId": "4e0735b1-0285-410e-a1d0-6eb66629aaf4",
+    "websiteUrl": "https://chatgpt.com/",
+    "pageTitle": "Sample Inaccessible Website – AccessAudit Demo",
+    "score": 29,
+    "status": "completed",
+    "totalIssues": 9,
+    "severityCounts": {
+      "critical": 4,
+      "serious": 4,
+      "moderate": 1,
+      "minor": 0
+    },
+    "pagesScanned": [
+      "https://chatgpt.com/"
+    ],
+    "scanDurationMs": 2310,
+    "scanDate": "2026-11-11T09:46:22.372Z"
+  },
+  {
+    "_id": "9c9f35c9-5aca-4424-a510-051218da38cb",
+    "createdAt": "2026-11-11T09:46:39.699Z",
+    "updatedAt": "2026-11-11T09:46:39.699Z",
+    "userId": "4e0735b1-0285-410e-a1d0-6eb66629aaf4",
+    "websiteUrl": "https://www.google.com",
+    "pageTitle": "Sample Inaccessible Website – AccessAudit Demo",
+    "score": 29,
+    "status": "completed",
+    "totalIssues": 9,
+    "severityCounts": {
+      "critical": 4,
+      "serious": 4,
+      "moderate": 1,
+      "minor": 0
+    },
+    "pagesScanned": [
+      "https://www.google.com"
+    ],
+    "scanDurationMs": 2310,
+    "scanDate": "2026-11-11T09:46:39.697Z"
+  },
+  {
+    "_id": "e2f0446b-14ec-4c9b-900c-2e125682a77c",
+    "createdAt": "2026-11-11T15:21:18.388Z",
+    "updatedAt": "2026-11-11T15:21:18.388Z",
+    "userId": "d697ee48-1798-4ee0-8dd2-7d61199d3b01",
+    "websiteUrl": "https://www.claude.com",
+    "pageTitle": "Sample Inaccessible Website – AccessAudit Demo",
+    "score": 29,
+    "status": "completed",
+    "totalIssues": 9,
+    "severityCounts": {
+      "critical": 4,
+      "serious": 4,
+      "moderate": 1,
+      "minor": 0
+    },
+    "pagesScanned": [
+      "https://www.claude.com"
+    ],
+    "scanDurationMs": 2310,
+    "scanDate": "2026-11-11T15:21:18.386Z"
+  },
+  {
+    "_id": "c394f5b6-55b0-4cef-bbdb-dc856b56abcc",
+    "createdAt": "2026-11-11T15:23:13.539Z",
+    "updatedAt": "2026-11-11T15:23:13.539Z",
+    "userId": "d697ee48-1798-4ee0-8dd2-7d61199d3b01",
+    "websiteUrl": "https://example.com",
+    "pageTitle": "Sample Inaccessible Website – AccessAudit Demo",
+    "score": 29,
+    "status": "completed",
+    "totalIssues": 9,
+    "severityCounts": {
+      "critical": 4,
+      "serious": 4,
+      "moderate": 1,
+      "minor": 0
+    },
+    "pagesScanned": [
+      "https://example.com"
+    ],
+    "scanDurationMs": 2310,
+    "scanDate": "2026-11-11T15:23:13.536Z"
+  }
+]

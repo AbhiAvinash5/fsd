@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "4e0735b1-0285-410e-a1d0-6eb66629aaf4",
+    "createdAt": "2026-11-11T09:45:14.899Z",
+    "updatedAt": "2026-11-11T09:45:14.899Z",
+    "name": "avinash",
+    "email": "avinashkamella5@gmail.com",
+    "passwordHash": "$2a$10$jQZEt4.EG4nCKfeLuzYa1uimGEQl4IDXOZUZdZD680b8irwLfQEve",
+    "role": "user"
+  },
+  {
+    "_id": "d697ee48-1798-4ee0-8dd2-7d61199d3b01",
+    "createdAt": "2026-11-11T15:19:31.920Z",
+    "updatedAt": "2026-11-11T15:19:31.920Z",
+    "name": "avinas",
+    "email": "avinashkamella7@gmail.com",
+    "passwordHash": "$2a$10$52xjfspJfy1cfnjvzYDMfOJ5CWhXpr76UdJZggxkbFyAvPxU7ekSy",
+    "role": "user"
+  }
+]

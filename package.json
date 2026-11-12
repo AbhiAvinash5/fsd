@@ -1,0 +1,12 @@
+{
+  "name": "accessaudit-workspace",
+  "version": "1.0.0",
+  "description": "AccessAudit - Automated Website Accessibility Auditor",
+  "scripts": {
+    "start": "node backend/server.js",
+    "server": "node backend/server.js",
+    "client": "npm --prefix frontend run dev",
+    "build:client": "npm --prefix frontend run build"
+  }
+}
+
